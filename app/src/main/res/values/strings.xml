@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Playerek</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="playerek">PLAYEREK</string>
+    <string name="playlista">Playlista</string>
+    <string name="now_playing">Teraz gramy:</string>
+    <string name="losowo">Losowo</string>
+    <string name="repeat">Powtórz</string>
+    <string name="title_activity_playlist">PlaylistActivity</string>
+    <string name="playlist">Playlista</string>
+    <string name="graj">Graj</string>
+
+</resources>
